@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=SailPass
+Exec=SailPass
+Name=SailPass
+# translation example:
+# your app name in German locale (de)
+Name[de]=SailPass
+
